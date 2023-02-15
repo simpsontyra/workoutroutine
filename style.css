@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    background-color: lavender;
+    border-style: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    padding: 10px;
+    border-width: 30px;
+    text-transform: uppercase;
+
+}
+a:hover {
+    color: blue;
+}
+
+* {
+    background-color: lavender;
+    
+}
+
+h3 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style: groove;
+    color: black;
+    letter-spacing: 0.2em;
+    border-width: 3px;
+    width: 130px;
+}
+
