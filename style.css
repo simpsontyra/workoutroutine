@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    background-color: lavender;
+    background-color: white;
     border-style: solid;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 70px;
@@ -14,7 +14,7 @@ a:hover {
 }
 
 * {
-    background-color: lavender;
+    background-color: white;
     
 }
 
@@ -25,5 +25,15 @@ h3 {
     letter-spacing: 0.2em;
     border-width: 3px;
     width: 130px;
+    text-align: center;
+}
+ul {
+    list-style-type: inside circle;
+    width: 300px;
+}
+
+img.align-right {
+    width: 1000px;
+    height: 1000px;
 }
 
