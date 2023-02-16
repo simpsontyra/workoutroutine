@@ -1,7 +1,7 @@
 h1 {
     text-align: center;
-    background-color: burlywood;
-    color: rgb(67, 160, 218);
+    background-color: white;
+    color: purple;
     border-style: solid;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 70px;
@@ -15,35 +15,34 @@ a:hover {
 }
 
 * {
-    background-color: burlywood;
+    background-color: white;
     
 }
 
 h3 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    border-style: groove;
+
     color: rgb(66, 154, 186);
     letter-spacing: 0.2em;
-    border-width: 3px;
-    width: 130px;
-    text-align: center;
+    
 }
 h4 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(206, 79, 213);
+   
 }
 ul {
     list-style-type: inside circle;
-    width: 300px;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    width: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-position: outside;
 }
 img {
     height: 300px;
     width: 300px;
-    border-top-left-radius: 80px 50px;
-    border-top-right-radius: 80px 50px;
-    border-bottom-left-radius: 80px 50px;
-    border-bottom-right-radius: 80px 50px;
     float: right;
+   
 }
+
+
 
