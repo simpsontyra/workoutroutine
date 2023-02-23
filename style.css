@@ -43,6 +43,8 @@ img {
     float: right;
    
 }
-
-
-
+h4 #clock {
+    font-size: 36px;
+    display: block;
+    padding: 5px 0px;
+  }
